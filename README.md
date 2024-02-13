@@ -1,11 +1,23 @@
 # Awesome-AI-CryptoSecurity
-Here is a updated compilation of research and open-source projects focused on Cryptographic Security, Smart Contract Security, integration of Fuzzing with AI, and solutions involving Large Language Models (LLMs) and Machine Learning (ML).
 
-1. **Title:** [Do you still need a manual smart contract audit? ](2306.12338.pdf) 
-**Authors:** Isaac David, Liyi Zhou, Kaihua Qin, Dawn Song, Lorenzo Cavallaro, Arthur Gervais  
-**Year:** 2023  
-**Summary:** The paper evaluates large language models (LLMs) for smart contract security in DeFi, focusing on their ability to identify vulnerabilities. Despite LLMs showing promise in detecting issues, they also produce many false positives, suggesting that manual audits remain essential. Mutation testing further highlights the LLMs' potential but confirms the need for human oversight in the audit process.
+Updated compilation of research and projects on cryptographic security, smart contract security, AI-integrated fuzzing, and solutions using Large Language Models (LLMs) and Machine Learning (ML).
 
-2. 
+## Papers & Talks
+
+- **[Do you still need a manual smart contract audit?](2306.12338.pdf)**  
+  **Authors:** Isaac David, Liyi Zhou, Kaihua Qin, Dawn Song, Lorenzo Cavallaro, Arthur Gervais  
+  **Year:** 2023  
+  **Summary:** Explores LLMs in DeFi smart contract security, highlighting their potential and limitations, and emphasizing the need for manual audits.
+
+- **[Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives](2310.01152.pdf)**  
+  **Authors:** Sihao Hu, Tiansheng Huang, Fatih İlhan, Selim Furkan Tekin, Ling Liu  
+  **Year:** 2023  
+  **Summary:** Introduces GPTLens, an adversarial framework for smart contract vulnerability detection using LLMs, offering a significant improvement over traditional methods.  
+  **Code:** [GitHub - GPTLens](https://github.com/git-disl/GPTLens)
+
+
+
+## Open Source Projects
+
 
 
